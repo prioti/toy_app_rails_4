@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 ruby '>=2.4.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 4.2', '>= 4.2.11.1'
+gem 'rails', '~> 4.2.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -32,6 +32,16 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+
+# August Update
+#gem "rack", ">= 2.1.4"
+#gem "json", ">= 2.3.0"
+#gem "actionview", ">= 5.2.4.2"
+#
+#
+
+
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution
