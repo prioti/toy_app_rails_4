@@ -42,6 +42,7 @@ gem 'sdoc', group: :doc
 gem 'test-unit'
 # Add bootstrap 
 gem 'bootsnap'
+gem 'listen'
 
 # August Update
 gem "rack", ">= 2.1.4"
