@@ -38,6 +38,11 @@ gem 'sdoc', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Add test -unit 
+gem 'test-unit'
+# Add bootstrap 
+gem 'bootsnap'
+
 # August Update
 gem "rack", ">= 2.1.4"
 gem "json", ">= 2.3.0"
